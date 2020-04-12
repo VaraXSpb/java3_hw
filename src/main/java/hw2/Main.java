@@ -9,7 +9,6 @@ public class Main {
 
 
     public static void main(String[] args) throws SQLException {
-
         try {
             connect();
             //addDataToTable("students", "Sarah",777);
